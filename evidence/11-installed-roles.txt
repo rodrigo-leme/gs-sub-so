@@ -1,0 +1,9 @@
+﻿
+Name               DisplayName                      InstallState
+----               -----------                      ------------
+AD-Domain-Services Active Directory Domain Services    Installed
+DNS                DNS Server                          Installed
+Web-Server         Web Server (IIS)                    Installed
+Web-CGI            CGI                                 Installed
+
+
